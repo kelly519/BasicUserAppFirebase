@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "869437587536",
+    "project_id": "firstproject-f697f",
+    "storage_bucket": "firstproject-f697f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869437587536:android:abda7ddc804522c757d155",
+        "android_client_info": {
+          "package_name": "com.kelly.usersapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "***"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
